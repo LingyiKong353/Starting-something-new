@@ -1,0 +1,6 @@
+# Versions taken from the upstream repository's requirements.txt (the set its examples are tested with).
+# More packages are added as later chapters need them (MCP, chromadb, tracing, ...).
+openai-agents==0.23.1
+pydantic==2.13.5
+python-dotenv==1.2.4
+typing_extensions==4.16.0
