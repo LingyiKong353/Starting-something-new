@@ -14,7 +14,7 @@ Upstream examples: `chapter_02/` in https://github.com/cxbxmxcx/AI-Agent-Workflo
 
 | # | Upstream file | Done | What I changed | What I learned |
 |---|---|---|---|---|
-| 1 | `01_first_agent.py` | [ ] | | |
+| 1 | `01_first_agent.py` | [x] | Notebook version: [01_first_agent.ipynb](01_first_agent.ipynb) (`await Runner.run` instead of `run_sync`) | _fill in_ |
 | 2 | `02_setting_agent_model_parameters.py` | [ ] | | |
 | 3 | `03_output_types_basic.py` | [ ] | | |
 | 4 | `04_output_types.py` | [ ] | | |
